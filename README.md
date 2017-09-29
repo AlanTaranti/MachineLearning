@@ -1,7 +1,5 @@
-# Implementação de uma Rede Neural Artificial apenas com Numpy
+# Desmonstrações em Machine Learning
 
-Este notebook implementa uma rede neural em baixo nível.
-Demonstrando como funciona os algoritmos de feedfoward, backpropagation e treinamento da rede, bem como parâmetros que controlam o desempenho da mesma, tais como taxa de aprendizado e quantidade de iterações.
 
 ## Licença
 * MIT License
